@@ -1,5 +1,5 @@
 # Coding for kids level 0
-##  Lesson 1: HTML - (HyperText Markup Language) - Closing Tags
+##  Lesson 2: HTML - (HyperText Markup Language) - Closing Tags
 Welcome back to our coding adventure! In our last lesson, we learned all about opening tags and how they are the first step in creating elements for our webpages. Today, we'll continue our journey and discover the magical world of closing tags!
 
 Just like opening tags, closing tags are special codes that help us create complete elements. They have a similar shape, with a less than < and a greater than > symbol, but they also have a forward slash / in between. Closing tags are like the final puzzle piece that completes our element.
